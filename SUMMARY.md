@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Principes](chapter1.md)
+* [Principes](principes.md)
 * [Objectifs](objectifs.md)
 
