@@ -1,3 +1,7 @@
-# My Awesome Book
+## Banque Citoyenne de France
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# BCF
+
+Une monnaie commune gérée en commun, le **Franc** :
+- liquider la dette souveraine au change et à moindre frais
+- exercer la souveraineté monétaire comme exercice démocratique
