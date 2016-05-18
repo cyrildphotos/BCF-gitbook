@@ -4,4 +4,4 @@
 
 Une monnaie commune gérée en commun, le **Franc** :
 - liquider la dette souveraine au change et à moindre frais
-- exercer la souveraineté monétaire comme exercice démocratique
+- exercer la souveraineté monétaire de manière démocratique
